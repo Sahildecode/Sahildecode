@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahildecode
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning reat js
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sahildecode@gmail.com
 - ⚡ Fun fact: I am special
